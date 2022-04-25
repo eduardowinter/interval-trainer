@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+
+.Play-interval {
+  background-color: #FFFFFF;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 5px;
+}
+
+.evaluate-answer {
+  /* width: 400px;
+  height: 80px; */
+  background-color: #FFFFFF;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 32px;
+  border-radius: 5px;
+}
+
+.next-interval {
+  /* width: 400px;
+  height: 80px; */
+  margin-left: 50px;
+  background-color: #FFFFFF;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 32px;
+  border-radius: 5px;
+}
+
+/* .bottom-buttons {
+  width: 120px;
+  justify-content: space-between;
+  
+} */
+
